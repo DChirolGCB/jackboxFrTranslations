@@ -1,291 +1,291 @@
 {
     "content": [
         {
-            "id": 1, 
+            "id": 1,
             "topic": "sauna"
-        }, 
+        },
         {
-            "id": 2, 
+            "id": 2,
             "topic": "aquarium"
-        }, 
+        },
         {
-            "id": 3, 
-            "topic": "army base"
-        }, 
+            "id": 3,
+            "topic": "base militaire"
+        },
         {
-            "id": 4, 
-            "topic": "art museum"
-        }, 
+            "id": 4,
+            "topic": "musée d'art"
+        },
         {
-            "id": 5, 
-            "topic": "backstage"
-        }, 
+            "id": 5,
+            "topic": "coulisses"
+        },
         {
-            "id": 6, 
-            "topic": "balcony"
-        }, 
+            "id": 6,
+            "topic": "balcon"
+        },
         {
-            "id": 7, 
-            "topic": "ball pit"
-        }, 
+            "id": 7,
+            "topic": "piscine à balles"
+        },
         {
-            "id": 8, 
-            "topic": "ballroom"
-        }, 
+            "id": 8,
+            "topic": "salle de bal"
+        },
         {
-            "id": 9, 
-            "topic": "bank"
-        }, 
+            "id": 9,
+            "topic": "banque"
+        },
         {
-            "id": 10, 
-            "topic": "barn"
-        }, 
+            "id": 10,
+            "topic": "grange"
+        },
         {
-            "id": 11, 
-            "topic": "bathroom"
-        }, 
+            "id": 11,
+            "topic": "salle de bain"
+        },
         {
-            "id": 12, 
-            "topic": "beach resort"
-        }, 
+            "id": 12,
+            "topic": "station balnéaire"
+        },
         {
-            "id": 13, 
-            "topic": "boardwalk"
-        }, 
+            "id": 13,
+            "topic": "promenade en bois"
+        },
         {
-            "id": 14, 
-            "topic": "brunch buffet"
-        }, 
+            "id": 14,
+            "topic": "buffet de brunch"
+        },
         {
-            "id": 15, 
-            "topic": "cafeteria"
-        }, 
+            "id": 15,
+            "topic": "cafétéria"
+        },
         {
-            "id": 16, 
-            "topic": "campsite"
-        }, 
+            "id": 16,
+            "topic": "camping"
+        },
         {
-            "id": 17, 
-            "topic": "car wash"
-        }, 
+            "id": 17,
+            "topic": "station de lavage auto"
+        },
         {
-            "id": 18, 
-            "topic": "castle"
-        }, 
+            "id": 18,
+            "topic": "château"
+        },
         {
-            "id": 19, 
-            "topic": "cemetary"
-        }, 
+            "id": 19,
+            "topic": "cimetière"
+        },
         {
-            "id": 20, 
-            "topic": "circus"
-        }, 
+            "id": 20,
+            "topic": "cirque"
+        },
         {
-            "id": 21, 
-            "topic": "cornfield"
-        }, 
+            "id": 21,
+            "topic": "champ de maïs"
+        },
         {
-            "id": 22, 
-            "topic": "courthouse"
-        }, 
+            "id": 22,
+            "topic": "palais de justice"
+        },
         {
-            "id": 23, 
-            "topic": "cruise ship"
-        }, 
+            "id": 23,
+            "topic": "bateau de croisière"
+        },
         {
-            "id": 24, 
-            "topic": "cubicle"
-        }, 
+            "id": 24,
+            "topic": "bureau individuel"
+        },
         {
-            "id": 25, 
-            "topic": "desert island"
-        }, 
+            "id": 25,
+            "topic": "île déserte"
+        },
         {
-            "id": 26, 
-            "topic": "doctor\u2019s office"
-        }, 
+            "id": 26,
+            "topic": "cabinet médical"
+        },
         {
-            "id": 27, 
-            "topic": "dorm room"
-        }, 
+            "id": 27,
+            "topic": "chambre étudiante"
+        },
         {
-            "id": 28, 
-            "topic": "elevator"
-        }, 
+            "id": 28,
+            "topic": "ascenseur"
+        },
         {
-            "id": 29, 
-            "topic": "escape room"
-        }, 
+            "id": 29,
+            "topic": "salle d'évasion"
+        },
         {
-            "id": 30, 
-            "topic": "farmers market"
-        }, 
+            "id": 30,
+            "topic": "marché fermier"
+        },
         {
-            "id": 31, 
-            "topic": "fast food drive thru"
-        }, 
+            "id": 31,
+            "topic": "service au volant de restauration rapide"
+        },
         {
-            "id": 32, 
-            "topic": "ferris wheel"
-        }, 
+            "id": 32,
+            "topic": "grande roue"
+        },
         {
-            "id": 33, 
-            "topic": "fire station"
-        }, 
+            "id": 33,
+            "topic": "caserne de pompiers"
+        },
         {
-            "id": 34, 
-            "topic": "funeral"
-        }, 
+            "id": 34,
+            "topic": "funérailles"
+        },
         {
-            "id": 35, 
-            "topic": "garbage dump"
-        }, 
+            "id": 35,
+            "topic": "décharge"
+        },
         {
-            "id": 36, 
-            "topic": "gazebo"
-        }, 
+            "id": 36,
+            "topic": "tonnelle"
+        },
         {
-            "id": 37, 
-            "topic": "gym"
-        }, 
+            "id": 37,
+            "topic": "salle de sport"
+        },
         {
-            "id": 38, 
-            "topic": "haunted house"
-        }, 
+            "id": 38,
+            "topic": "maison hantée"
+        },
         {
-            "id": 39, 
-            "topic": "helipad"
-        }, 
+            "id": 39,
+            "topic": "héliport"
+        },
         {
-            "id": 40, 
-            "topic": "highway rest stop"
-        }, 
+            "id": 40,
+            "topic": "aire de repos autoroutière"
+        },
         {
-            "id": 41, 
-            "topic": "hotel lobby"
-        }, 
+            "id": 41,
+            "topic": "hall d'hôtel"
+        },
         {
-            "id": 42, 
-            "topic": "library"
-        }, 
+            "id": 42,
+            "topic": "bibliothèque"
+        },
         {
-            "id": 43, 
-            "topic": "log cabin"
-        }, 
+            "id": 43,
+            "topic": "cabane en rondins"
+        },
         {
-            "id": 44, 
-            "topic": "museum gift shop"
-        }, 
+            "id": 44,
+            "topic": "boutique de musée"
+        },
         {
-            "id": 45, 
-            "topic": "panic room"
-        }, 
+            "id": 45,
+            "topic": "pièce sécurisée"
+        },
         {
-            "id": 46, 
-            "topic": "parade"
-        }, 
+            "id": 46,
+            "topic": "défilé"
+        },
         {
-            "id": 47, 
-            "topic": "pet shelter"
-        }, 
+            "id": 47,
+            "topic": "refuge pour animaux"
+        },
         {
-            "id": 48, 
-            "topic": "pirate ship"
-        }, 
+            "id": 48,
+            "topic": "navire pirate"
+        },
         {
-            "id": 49, 
-            "topic": "planetarium"
-        }, 
+            "id": 49,
+            "topic": "planétarium"
+        },
         {
-            "id": 50, 
-            "topic": "playground"
-        }, 
+            "id": 50,
+            "topic": "terrain de jeu"
+        },
         {
-            "id": 51, 
+            "id": 51,
             "topic": "prison"
-        }, 
+        },
         {
-            "id": 52, 
-            "topic": "public pool"
-        }, 
+            "id": 52,
+            "topic": "piscine municipale"
+        },
         {
-            "id": 53, 
-            "topic": "rain forest"
-        }, 
+            "id": 53,
+            "topic": "forêt tropicale"
+        },
         {
-            "id": 54, 
-            "topic": "rose garden"
-        }, 
+            "id": 54,
+            "topic": "roseraie"
+        },
         {
-            "id": 55, 
-            "topic": "salad bar"
-        }, 
+            "id": 55,
+            "topic": "bar à salades"
+        },
         {
-            "id": 56, 
-            "topic": "shipwreck"
-        }, 
+            "id": 56,
+            "topic": "épave"
+        },
         {
-            "id": 57, 
-            "topic": "shopping mall"
-        }, 
+            "id": 57,
+            "topic": "centre commercial"
+        },
         {
-            "id": 58, 
-            "topic": "ski lift"
-        }, 
+            "id": 58,
+            "topic": "télésiège"
+        },
         {
-            "id": 59, 
-            "topic": "skyscraper"
-        }, 
+            "id": 59,
+            "topic": "gratte-ciel"
+        },
         {
-            "id": 60, 
-            "topic": "space station"
-        }, 
+            "id": 60,
+            "topic": "station spatiale"
+        },
         {
-            "id": 61, 
-            "topic": "sports arena"
-        }, 
+            "id": 61,
+            "topic": "arène sportive"
+        },
         {
-            "id": 62, 
-            "topic": "subway station"
-        }, 
+            "id": 62,
+            "topic": "station de métro"
+        },
         {
-            "id": 63, 
-            "topic": "taco truck"
-        }, 
+            "id": 63,
+            "topic": "camion à tacos"
+        },
         {
-            "id": 64, 
+            "id": 64,
             "topic": "taxi"
-        }, 
+        },
         {
-            "id": 65, 
-            "topic": "theme park"
-        }, 
+            "id": 65,
+            "topic": "parc d'attractions"
+        },
         {
-            "id": 66, 
-            "topic": "truck stop"
-        }, 
+            "id": 66,
+            "topic": "aire de service pour camions"
+        },
         {
-            "id": 67, 
-            "topic": "gazebo"
-        }, 
+            "id": 67,
+            "topic": "tonnelle"
+        },
         {
-            "id": 68, 
-            "topic": "waiting room"
-        }, 
+            "id": 68,
+            "topic": "salle d'attente"
+        },
         {
-            "id": 69, 
-            "topic": "water park"
-        }, 
+            "id": 69,
+            "topic": "parc aquatique"
+        },
         {
-            "id": 70, 
-            "topic": "waterfall"
-        }, 
+            "id": 70,
+            "topic": "cascade"
+        },
         {
-            "id": 71, 
-            "topic": "wax museum"
-        }, 
+            "id": 71,
+            "topic": "musée de cire"
+        },
         {
-            "id": 72, 
+            "id": 72,
             "topic": "zoo"
         }
     ]
