@@ -102,7 +102,7 @@
             "TUTORIAL_SKIP_CONTROLLER_BUTTON": "Passer !",
             "LOBBY_PICK_A_CATCHPHRASE_CONTROLLER_TITLE": "Sélectionnez comment compléter votre slogan :",
             "LOBBY_PICK_A_CATCHPHRASE_CONTROLLER_DONE": "Merci.",
-            "ROUND_WRITE_TOPIC_CONTROLLER_TITLE": "Écrivez autant de sujets que possible.",
+            "ROUND_WRITE_TOPIC_CONTROLLER_TITLE": "Écrivez autant de sujets que possible (!! sans article !! écrivez 'chien' au lieu de 'un chien').",
             "ROUND_PICK_A_SETUP_CONTROLLER_TITLE": "<div class=\"count\">Blague <CURRENTJOKE> (sur 2)</div><div>Choisissez une introduction de blague :",
             "ROUND_PICK_A_SETUP_CONTROLLER_DONE": "Merci.",
             "ROUND_PICK_A_TOPIC_CONTROLLER_TITLE": "<div class=\"count\">Blague <CURRENTJOKE> (sur 2)</div>Complétez votre introduction :",

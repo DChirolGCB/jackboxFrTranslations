@@ -34,7 +34,7 @@
             "type": "2"
         },
         {
-            "punchline": "We had <BLANK>",
+            "punchline": "On avait <BLANK>",
             "decoys": [
                 "online followers | in-person stalkers.",
                 "ice cream sundaes | gelato mondays.",
@@ -44,13 +44,13 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "When I was a kid we didn\u2019t have <TOPIC>.",
+            "setup": "Quand j'étais gaming, on avait pas <TOPIC>.",
             "id": 55839,
             "categories": ",#things",
             "type": "3"
         },
         {
-            "punchline": "That\u2019s where you <BLANK>",
+            "punchline": "C'est quand tu <BLANK>",
             "decoys": [
                 "Jackbox | waste hours of your life.",
                 "rat | eat garbage and hide.",
@@ -60,7 +60,7 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "Have you heard about the <TOPIC> challenge?",
+            "setup": "As tu entendu parler du <TOPIC> challenge?",
             "id": 55813,
             "categories": ",object",
             "type": "1"
@@ -76,7 +76,7 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "I\u2019m so old I remember when <TOPIC> was",
+            "setup": "Je suis si vieux que je me souviens quand <TOPIC> était encore",
             "id": 55811,
             "categories": ",#person",
             "type": "3"
@@ -92,7 +92,7 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "Middle school for me was like <TOPIC>:",
+            "setup": "Pour moi, le collège c'était comme <TOPIC>:",
             "id": 55810,
             "categories": ",person",
             "type": "1"
@@ -108,7 +108,7 @@
             ],
             "timing": "3.5",
             "x": false,
-            "setup": "My grandma said the best thing about <TOPIC> is",
+            "setup": "Ma grand-mère dit toujours que le meilleur côté des <TOPIC> c'est",
             "id": 55809,
             "categories": ",#things",
             "type": "5"
@@ -124,13 +124,13 @@
             ],
             "timing": "3.0",
             "x": true,
-            "setup": "I like my sex like I like my <TOPIC>:",
+            "setup": "J'aime le sexe comme j'aime <TOPIC>:",
             "id": 55807,
             "categories": ",food",
             "type": "1"
         },
         {
-            "punchline": "because <BLANK>",
+            "punchline": "car <BLANK>",
             "decoys": [
                 "flashlight | I have bright ideas.",
                 "hot dog | what\u2019s inside me is a mystery.",
@@ -140,13 +140,13 @@
             ],
             "timing": "3.0",
             "x": true,
-            "setup": "I\u2019m a nasty little <TOPIC>",
+            "setup": "Je suis un.e sale petit.e <TOPIC>",
             "id": 55805,
             "categories": ",object",
             "type": "3"
         },
         {
-            "punchline": "Three. One to screw it in and two to <BLANK>",
+            "punchline": "3, un.e pour la visser, deux pour <BLANK>",
             "decoys": [
                 "astronauts | fake it.",
                 "bathtubs | soak it all in.",
@@ -156,13 +156,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "How many <TOPIC> does it take to change a light bulb?",
+            "setup": "Combien il faut de <TOPIC> pour changer une ampoule ?",
             "id": 56091,
             "categories": ",#things",
             "type": "4"
         },
         {
-            "punchline": "and <BLANK>",
+            "punchline": "et <BLANK>",
             "decoys": [
                 "sharks | they say, \u201cwe\u2019re not your chums.\u201d",
                 "blenders | really mix things up.",
@@ -172,7 +172,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "A group of <TOPIC> walk into a bar",
+            "setup": "Un groupe de <TOPIC> rentre dans un bar",
             "id": 56092,
             "categories": ",#things",
             "type": "4"
@@ -188,7 +188,7 @@
             ],
             "timing": "0.0",
             "x": true,
-            "setup": "My love life is like <TOPIC>:",
+            "setup": "Ma vie sentimentale, c'est comme <TOPIC>:",
             "id": 56099,
             "categories": ",#person",
             "type": "2"
@@ -204,7 +204,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "I like my friends like I like my <TOPIC>:",
+            "setup": "J'aime mes amis comme j'aime mes <TOPIC>:",
             "id": 56923,
             "categories": ",#things",
             "type": "1"
@@ -220,7 +220,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "My family is like <TOPIC>:",
+            "setup": "Ma famille c'est comme <TOPIC>:",
             "id": 56102,
             "categories": ",#person",
             "type": "1"
@@ -236,13 +236,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "Marriage is a lot like <TOPIC>:",
+            "setup": "Se marier ça ressemble beaucoup aux <TOPIC>:",
             "id": 56097,
             "categories": ",#things",
             "type": "3"
         },
         {
-            "punchline": "That\u2019s when you <BLANK>",
+            "punchline": "C'est quand tu <BLANK>",
             "decoys": [
                 "penguin | overdress for every occasion.",
                 "table | quietly hold things for everyone.",
@@ -252,13 +252,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "Have you ever tried <TOPIC>-ing?",
+            "setup": "TU as déjà essayé de <TOPIC>-er?",
             "id": 56094,
             "categories": ",#object",
             "type": "4"
         },
         {
-            "punchline": "because <BLANK>",
+            "punchline": "parce que <BLANK>",
             "decoys": [
                 "fast food restaurant | most people just drive through.",
                 "ball pit | it\u2019s filled with urine.",
@@ -268,13 +268,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "My hometown\u2019s nickname is the <TOPIC>",
+            "setup": "Ma ville natale est surnommée <TOPIC>",
             "id": 56962,
             "categories": ",#location",
             "type": "5"
         },
         {
-            "punchline": "because <BLANK>",
+            "punchline": "parce que <BLANK>",
             "decoys": [
                 "welcome mat | people walk all over me.",
                 "salami | I don\u2019t know what I\u2019m made of.",
@@ -284,7 +284,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "My nickname is <TOPIC>",
+            "setup": "Mon surnom c'est <TOPIC>",
             "id": 56121,
             "categories": ",#object",
             "type": "1"
@@ -300,13 +300,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "You ever notice how <TOPIC> are just a fancy version of",
+            "setup": "Tu as remarqué à quel point les <TOPIC> c'est juste des versions trendy des",
             "id": 56123,
             "categories": ",#things",
             "type": "2"
         },
         {
-            "punchline": "<BLANK>",
+            "punchline": "en <BLANK>",
             "decoys": [
                 "cargo shorts | rubbing khakis and dads together.",
                 "milk | hugging a cow.",
@@ -316,7 +316,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "God created <TOPIC> by",
+            "setup": "Dieu a créé les <TOPIC>",
             "id": 56122,
             "categories": ",#things",
             "type": "2"
@@ -332,7 +332,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "What\u2019s the difference between most people and <TOPIC>?",
+            "setup": "C'est quoi la différence entre la plupart des gens et <TOPIC>?",
             "id": 56917,
             "categories": ",#things",
             "type": "2"
@@ -348,7 +348,7 @@
             ],
             "timing": "4.0",
             "x": false,
-            "setup": "<TOPIC> looks like a cross between",
+            "setup": "<TOPIC> ressemble à un croisement entre",
             "id": 55842,
             "categories": ",#person",
             "type": "2"
@@ -364,7 +364,7 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "I\u2019m so dumb I thought <TOPIC> were",
+            "setup": "Je suis tellement débile que je pensais que les <TOPIC> étaient",
             "id": 55808,
             "categories": ",things",
             "type": "3"
@@ -380,13 +380,13 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "I have more <TOPIC> than",
+            "setup": "J'ai plus de <TOPIC> que de",
             "id": 55980,
             "categories": ",#things",
             "type": "3"
         },
         {
-            "punchline": "and not \u201c<BLANK>\u201d?",
+            "punchline": "et pas des <BLANK> ?",
             "decoys": [
                 "pacifists | pacihandshakes",
                 "schools | oh man, what is that thing called again",
@@ -396,7 +396,7 @@
             ],
             "timing": "3.0",
             "x": false,
-            "setup": "Why are they called <TOPIC>...",
+            "setup": "Pourquoi on appelle ça des <TOPIC>...",
             "id": 55844,
             "categories": ",#things",
             "type": "4"
@@ -412,13 +412,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "Why did the <TOPIC> cross the road?",
+            "setup": "Pourquoi <TOPIC> traverse la route?",
             "id": 56124,
             "categories": ",#object",
             "type": "4"
         },
         {
-            "punchline": "because <BLANK>",
+            "punchline": "parce que <BLANK>",
             "decoys": [
                 "dragons | I have halitosis.",
                 "mermaids | I like collecting stuff...isn\u2019t it neat?",
@@ -428,13 +428,13 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "My doctor said I have a bad case of the <TOPIC>",
+            "setup": "Mon docteur dit que j'ai un gros problème de <TOPIC>",
             "id": 56096,
             "categories": ",#things",
             "type": "5"
         },
         {
-            "punchline": "because <BLANK>",
+            "punchline": "parce que <BLANK>",
             "decoys": [
                 "barn | I\u2019m always counting sheep.",
                 "silence | it\u2019s uncomfortable.",
@@ -444,7 +444,7 @@
             ],
             "timing": "0.0",
             "x": false,
-            "setup": "I call my bedroom the <TOPIC>",
+            "setup": "J'appelle ma chambre la <TOPIC>",
             "id": 56961,
             "categories": ",#location",
             "type": "5"
